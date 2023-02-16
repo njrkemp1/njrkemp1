@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @njrkemp1
-- 👀 I’m interested in programming and anime
-- 🌱 I’m currently learning how to build and use databases, aswell as creating a communation app
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me njrkemp1@gmail.com
+- 👋 Hi, I’m njrkemp1, an BSc Physics and Computer Sciecne Graduate
+- 👀 I’m interested in data sciecne, phyiscs,anime and manwha.
+- 🌱 I’m currently learning how to advance my data analytics
+- 📫 How to reach me njrkemp1@gmail.com or check my linkedIn profile.
 
 <!---
 njrkemp1/njrkemp1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
